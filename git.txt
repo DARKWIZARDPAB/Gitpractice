@@ -1,0 +1,12 @@
+$ git config --global user.name "Pabitra"--------------set username up arrow previous command -shortcut
+
+
+$ git config --global user.email "pabitrachatterjee196@gmail.com"-------------set email
+
+$ git config --list-------------show the entire list of config data
+
+$ git status ---------------check wheather its a git repository or notasdasdasdasdasdasdasdadasdasdasdasdasd
+asddddddddddddddd
+
+
+
